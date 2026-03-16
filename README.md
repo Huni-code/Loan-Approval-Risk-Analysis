@@ -1,10 +1,5 @@
 # Loan Approval Risk Analysis Using Machine Learning
 
-**DATA 202 Final Project**
-**Sunghun Kim** | Calvin University
-
----
-
 ## Overview
 
 According to my research, 90% of Americans have some form of debt. Loans are a widely used system that benefits individuals and businesses. However, banks approving incorrectly to the wrong person may lead to financial risk and loss, while unnecessary rejection of a qualified applicant would be a missed revenue opportunity.
